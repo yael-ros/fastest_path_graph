@@ -1,0 +1,33 @@
+Source: B
+Destination: F
+Connection:
+A->B = 7
+A->C = 1
+A->D = 4
+A->E = 8
+A->F = 5
+B->A = 5
+B->C = 3
+B->D = 6
+B->E = 4
+B->F = 1
+C->A = 2
+C->B = 5
+C->D = 6
+C->E = 2
+C->F = 10
+D->A = 8
+D->B = 4
+D->C = 2
+D->E = 8
+D->F = 9
+E->A = 3
+E->B = 4
+E->C = 5
+E->D = 10
+E->F = 6
+F->A = 2
+F->B = 1
+F->C = 7
+F->D = 17
+F->E = 9
