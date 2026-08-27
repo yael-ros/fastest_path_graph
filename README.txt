@@ -1,4 +1,4 @@
-CREATOR: Yael Bar Avraham
+CREATOR: Yael Rosen
 
 On main page of the project in github press the green button code
 and chose downloads zip. extract the zip in your computer.
